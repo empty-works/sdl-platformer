@@ -1,7 +1,7 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_image.h>
 #include <iostream>
-#include "RenderWindow.hpp"
+#include "../include/RenderWindow.hpp"
 
 int main(int argc, char* argv[])
 {
